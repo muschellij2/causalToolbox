@@ -27,7 +27,7 @@ Imports:
     quickmatch,
     distances, 
     BART
-Remotes: forestry-labs/Rforestry
+Remotes: forestry-labs/Rforestry/R
 RoxygenNote: 7.2.1
 Suggests:
     testthat,
